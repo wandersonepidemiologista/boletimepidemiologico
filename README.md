@@ -17,5 +17,6 @@ Discussões temáticas: Além dos dados numéricos, o boletim incluía artigos d
 - Geane Oliveira
 - Ronaldo Coelho
 - Luciane Dalfenbach
+- Isadora Siqueira
 
 O papel dos boletins epidemiológicos, como o IESUS, foi fundamental para a construção de uma base de dados sólida para a vigilância em saúde no Brasil, servindo de ferramenta para gestores, pesquisadores e o público em geral no enfrentamento de doenças transmissíveis e no planejamento de intervenções em saúde pública.
